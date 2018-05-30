@@ -1,6 +1,3 @@
 Dan
 Mary
 Josh
-A new name for master branch
-A name for Dev branch.
-Other name.
